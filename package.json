@@ -31,7 +31,7 @@
     "chai": "^4.2.0",
     "chai-bn": "^0.2.1",
     "dotenv": "^8.2.0",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "solidity-coverage": "^0.7.13",
     "truffle-plugin-verify": "^0.4.0",
     "truffle-privatekey-provider": "^1.5.0"
